@@ -21,7 +21,7 @@ module.exports = [
     config: {
       enabled: true,
       headers: '*',
-      origin: ['http://localhost:1337','http://localhost:5173','https://strapijacob-production.up.railway.app']
+      origin: ['http://localhost:1337','http://localhost:5173','https://strapijacob-production.up.railway.app','https://starlight-new.netlify.app']
     }
   },
   'strapi::query',
